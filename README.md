@@ -1,2 +1,1 @@
-testrepo
-========
+This is a repository for integration tests.
